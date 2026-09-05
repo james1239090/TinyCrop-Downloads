@@ -3,6 +3,21 @@
     <channel>
         <title>TinyCrop</title>
         <item>
+            <title>0.3.11</title>
+            <pubDate>Sun, 06 Sep 2026 09:54:00 +1000</pubDate>
+            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TinyCrop 0.3.11</h2>
+<ul>
+  <li>預覽範圍會隨目前焦點動態移動，保留目前照片往前共 10 張，以及後面最多 5 張。</li>
+  <li>切換到前一張照片時，剛處理完成的下一張仍會顯示；焦點移遠後才釋放範圍外的預覽。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.11/TinyCrop-0.3.11-universal.zip" length="6587421" type="application/octet-stream" sparkle:edSignature="vzuWcCAExIiRgPxeHaKgT4iAwQ3r2xbxTNNVK+4G+xYPo+jEbTkeCOJAxT4KR+cCUqdGkph3zKKFo2+vWEogCg=="/>
+        </item>
+        <item>
             <title>0.3.10</title>
             <pubDate>Sun, 06 Sep 2026 09:44:25 +1000</pubDate>
             <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
@@ -32,23 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.9/TinyCrop-0.3.9-universal.zip" length="6581282" type="application/octet-stream" sparkle:edSignature="Cgx9YjDFvQ3edGEtAWFkC7lxmB54ABI61TXL4ubBLH0V06gK7VBYUOc3G84VDzLpNx6a14apXXAcYJgdQ8xGCg=="/>
-        </item>
-        <item>
-            <title>0.3.8</title>
-            <pubDate>Sun, 06 Sep 2026 09:11:01 +1000</pubDate>
-            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TinyCrop 0.3.8</h2>
-<ul>
-  <li>加入 Sparkle 2，可在 App 內下載、驗證並安裝更新。</li>
-  <li>更新檔使用 Ed25519 簽章，並在解壓縮前驗證。</li>
-  <li>保留 Intel macOS 10.13.6 與 Apple Silicon 支援。</li>
-  <li>不啟用匿名系統資料回傳；是否自動檢查與下載由使用者決定。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.8/TinyCrop-0.3.8-universal.zip" length="6580113" type="application/octet-stream" sparkle:edSignature="MMxl0AsFKVWDZyqCoR4Urg1JBDNjIGnPOBOdU5I1ApnKpvmkeeILEH9SKUsCKKdZN51Izu+lEb2Jb4uXn/HmCw=="/>
         </item>
     </channel>
 </rss>
