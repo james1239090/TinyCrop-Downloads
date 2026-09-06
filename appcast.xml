@@ -3,6 +3,21 @@
     <channel>
         <title>TinyCrop</title>
         <item>
+            <title>0.3.14</title>
+            <pubDate>Sun, 06 Sep 2026 21:15:02 +1000</pubDate>
+            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TinyCrop 0.3.14</h2>
+<ul>
+  <li>加入 Sentry 當機診斷、錯誤與效能監控，以協助找出使用者遇到的穩定性問題。</li>
+  <li>不會主動附加照片、檔名、照片路徑或裁切內容。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.14/TinyCrop-0.3.14-universal.zip" length="7966026" type="application/octet-stream" sparkle:edSignature="hiCL8H+Evygb0X7EvxNw31BsL9djb8lZ1khbNdPLyystLSdbHrKwvq/+LV2ZEQaJsIFGl7uehFDO2AXBtaaBDw=="/>
+        </item>
+        <item>
             <title>0.3.13</title>
             <pubDate>Sun, 06 Sep 2026 20:10:29 +1000</pubDate>
             <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
@@ -33,21 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.12/TinyCrop-0.3.12-universal.zip" length="6587333" type="application/octet-stream" sparkle:edSignature="7Jv0c/KeqNA4tDEYELE8HCEaktpCzNyt/KNRg02T4bamIVEmoWPX2pVajxh1rpihZFJlYZDeihfjrOIBOLnWCA=="/>
-        </item>
-        <item>
-            <title>0.3.11</title>
-            <pubDate>Sun, 06 Sep 2026 09:54:00 +1000</pubDate>
-            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TinyCrop 0.3.11</h2>
-<ul>
-  <li>預覽範圍會隨目前焦點動態移動，保留目前照片往前共 10 張，以及後面最多 5 張。</li>
-  <li>切換到前一張照片時，剛處理完成的下一張仍會顯示；焦點移遠後才釋放範圍外的預覽。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.11/TinyCrop-0.3.11-universal.zip" length="6587421" type="application/octet-stream" sparkle:edSignature="vzuWcCAExIiRgPxeHaKgT4iAwQ3r2xbxTNNVK+4G+xYPo+jEbTkeCOJAxT4KR+cCUqdGkph3zKKFo2+vWEogCg=="/>
         </item>
     </channel>
 </rss>
