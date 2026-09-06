@@ -3,6 +3,22 @@
     <channel>
         <title>TinyCrop</title>
         <item>
+            <title>0.3.13</title>
+            <pubDate>Sun, 06 Sep 2026 20:10:29 +1000</pubDate>
+            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TinyCrop 0.3.13</h2>
+<ul>
+  <li>「全部關閉」改為每批關閉多張已儲存照片，減少逐張重整照片清單與預覽的負擔。</li>
+  <li>批次之間持續更新旋轉動畫與數字進度，讓大量照片關閉時仍能看出 App 正在運作。</li>
+  <li>遇到未儲存照片時才暫停並詢問，選擇取消會停止後續批次。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.13/TinyCrop-0.3.13-universal.zip" length="6594903" type="application/octet-stream" sparkle:edSignature="L+WdPxJ+wjeuc9nl4+RgnGuXo59WOiYwBk6ALWELX6Nj482mCB8MkpvBao36Ki4ls1d3TTg1yMbK2us1kG9uAg=="/>
+        </item>
+        <item>
             <title>0.3.12</title>
             <pubDate>Sun, 06 Sep 2026 10:13:26 +1000</pubDate>
             <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
@@ -32,22 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.11/TinyCrop-0.3.11-universal.zip" length="6587421" type="application/octet-stream" sparkle:edSignature="vzuWcCAExIiRgPxeHaKgT4iAwQ3r2xbxTNNVK+4G+xYPo+jEbTkeCOJAxT4KR+cCUqdGkph3zKKFo2+vWEogCg=="/>
-        </item>
-        <item>
-            <title>0.3.10</title>
-            <pubDate>Sun, 06 Sep 2026 09:44:25 +1000</pubDate>
-            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TinyCrop 0.3.10</h2>
-<ul>
-  <li>新增預設時可確認名稱、寬、高、單位與 DPI，按「儲存」才會建立。</li>
-  <li>修正重新選取客製預設時沒有載回寬、高與 DPI 的問題。</li>
-  <li>加入客製預設刪除功能；內建的「2 吋」與「1 吋」無法刪除。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.10/TinyCrop-0.3.10-universal.zip" length="6587293" type="application/octet-stream" sparkle:edSignature="6QABO7/+h6C5MO/2c3JPsAgqtiSeTEPf5zG0+gICamBenGtJ0cliw87V+8p+oPolOurOqAJXFd4dJkFeZdEIAw=="/>
         </item>
     </channel>
 </rss>
