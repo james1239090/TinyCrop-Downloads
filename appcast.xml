@@ -3,6 +3,22 @@
     <channel>
         <title>TinyCrop</title>
         <item>
+            <title>0.3.12</title>
+            <pubDate>Sun, 06 Sep 2026 10:13:26 +1000</pubDate>
+            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TinyCrop 0.3.12</h2>
+<ul>
+  <li>客製預設的刪除功能移到裁切下拉選單底部，並只在選取客製預設時顯示。</li>
+  <li>「全部關閉」會逐張關閉所有照片，以動畫及數字顯示進度，並詢問是否儲存尚未儲存的照片。</li>
+  <li>在未儲存提示選擇取消時，會停止後續的全部關閉流程。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.12/TinyCrop-0.3.12-universal.zip" length="6587333" type="application/octet-stream" sparkle:edSignature="7Jv0c/KeqNA4tDEYELE8HCEaktpCzNyt/KNRg02T4bamIVEmoWPX2pVajxh1rpihZFJlYZDeihfjrOIBOLnWCA=="/>
+        </item>
+        <item>
             <title>0.3.11</title>
             <pubDate>Sun, 06 Sep 2026 09:54:00 +1000</pubDate>
             <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
@@ -32,21 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.10/TinyCrop-0.3.10-universal.zip" length="6587293" type="application/octet-stream" sparkle:edSignature="6QABO7/+h6C5MO/2c3JPsAgqtiSeTEPf5zG0+gICamBenGtJ0cliw87V+8p+oPolOurOqAJXFd4dJkFeZdEIAw=="/>
-        </item>
-        <item>
-            <title>0.3.9</title>
-            <pubDate>Sun, 06 Sep 2026 09:26:48 +1000</pubDate>
-            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TinyCrop 0.3.9</h2>
-<ul>
-  <li>將新增裁切預設移到「裁切」下拉選單底部，並與現有預設清楚分隔。</li>
-  <li>更新「另存新檔」按鈕圖示，讓用途更容易辨識。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.9/TinyCrop-0.3.9-universal.zip" length="6581282" type="application/octet-stream" sparkle:edSignature="Cgx9YjDFvQ3edGEtAWFkC7lxmB54ABI61TXL4ubBLH0V06gK7VBYUOc3G84VDzLpNx6a14apXXAcYJgdQ8xGCg=="/>
         </item>
     </channel>
 </rss>
