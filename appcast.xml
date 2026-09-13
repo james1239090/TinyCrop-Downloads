@@ -3,6 +3,24 @@
     <channel>
         <title>TinyCrop</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Sun, 13 Sep 2026 23:54:04 +1000</pubDate>
+            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TinyCrop 0.4.1</h2>
+<ul>
+<li>新增橢圓選取，移除套索繪製途中連回起點的輔助線。</li>
+<li>選區可拖曳移動、四角縮放、方向鍵微調，支援復原。</li>
+<li>雙擊選區內進入移動，雙擊選區外返回原工具並保留範圍。</li>
+<li>新增剪下選區（原處補白），可接著貼上為物件。</li>
+</ul>
+<p>升級前請先儲存照片並退出舊版。</p>
+]]></description>
+            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.4.1/TinyCrop-0.4.1-universal.zip" length="8296964" type="application/octet-stream" sparkle:edSignature="YqZhCE+J1dmgwmfUt7em0YohL608f0CReD0yv/Ry3PbaBc0FlrjrRMKEn9F+3FAYXuiZcbO17AFPwGQGk82OBg=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Sun, 13 Sep 2026 14:52:03 +1000</pubDate>
             <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
@@ -34,22 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.14/TinyCrop-0.3.14-universal.zip" length="7966026" type="application/octet-stream" sparkle:edSignature="hiCL8H+Evygb0X7EvxNw31BsL9djb8lZ1khbNdPLyystLSdbHrKwvq/+LV2ZEQaJsIFGl7uehFDO2AXBtaaBDw=="/>
-        </item>
-        <item>
-            <title>0.3.13</title>
-            <pubDate>Sun, 06 Sep 2026 20:10:29 +1000</pubDate>
-            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TinyCrop 0.3.13</h2>
-<ul>
-  <li>「全部關閉」改為每批關閉多張已儲存照片，減少逐張重整照片清單與預覽的負擔。</li>
-  <li>批次之間持續更新旋轉動畫與數字進度，讓大量照片關閉時仍能看出 App 正在運作。</li>
-  <li>遇到未儲存照片時才暫停並詢問，選擇取消會停止後續批次。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.13/TinyCrop-0.3.13-universal.zip" length="6594903" type="application/octet-stream" sparkle:edSignature="L+WdPxJ+wjeuc9nl4+RgnGuXo59WOiYwBk6ALWELX6Nj482mCB8MkpvBao36Ki4ls1d3TTg1yMbK2us1kG9uAg=="/>
         </item>
     </channel>
 </rss>
