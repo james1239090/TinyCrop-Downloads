@@ -3,6 +3,24 @@
     <channel>
         <title>TinyCrop</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sun, 13 Sep 2026 14:52:03 +1000</pubDate>
+            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>TinyCrop 0.4.0</h2>
+<ul>
+<li>中文工具列全部展開，頂端新增上一步／下一步；移動、裁切、快速選取、魔術棒優先排列。</li>
+<li>新增選取、跨照片物件貼上與自由變形、仿製印章及多步歷史。</li>
+<li>提供藍色、白色與自訂填充；魔術棒預設容差 22、羽化 0.2 px、補邊 +1 px。</li>
+<li>改善歷史與魔術棒計算效率，保留原始解析度 JPEG 輸出。</li>
+</ul>
+<p>升級前請先儲存照片並退出舊版。</p>
+]]></description>
+            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.4.0/TinyCrop-0.4.0-universal.zip" length="8272371" type="application/octet-stream" sparkle:edSignature="w2MN3YV15xrz7kDSnKafVUpu7RrOyHzL0i6D80pbsHDaQXq6oBde++CEomYCZQmcthTNRi1DZH1gx7Abzs5oDA=="/>
+        </item>
+        <item>
             <title>0.3.14</title>
             <pubDate>Sun, 06 Sep 2026 21:15:02 +1000</pubDate>
             <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
@@ -32,22 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.13/TinyCrop-0.3.13-universal.zip" length="6594903" type="application/octet-stream" sparkle:edSignature="L+WdPxJ+wjeuc9nl4+RgnGuXo59WOiYwBk6ALWELX6Nj482mCB8MkpvBao36Ki4ls1d3TTg1yMbK2us1kG9uAg=="/>
-        </item>
-        <item>
-            <title>0.3.12</title>
-            <pubDate>Sun, 06 Sep 2026 10:13:26 +1000</pubDate>
-            <link>https://github.com/james1239090/TinyCrop-Downloads/releases/latest</link>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>TinyCrop 0.3.12</h2>
-<ul>
-  <li>客製預設的刪除功能移到裁切下拉選單底部，並只在選取客製預設時顯示。</li>
-  <li>「全部關閉」會逐張關閉所有照片，以動畫及數字顯示進度，並詢問是否儲存尚未儲存的照片。</li>
-  <li>在未儲存提示選擇取消時，會停止後續的全部關閉流程。</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/james1239090/TinyCrop-Downloads/releases/download/v0.3.12/TinyCrop-0.3.12-universal.zip" length="6587333" type="application/octet-stream" sparkle:edSignature="7Jv0c/KeqNA4tDEYELE8HCEaktpCzNyt/KNRg02T4bamIVEmoWPX2pVajxh1rpihZFJlYZDeihfjrOIBOLnWCA=="/>
         </item>
     </channel>
 </rss>
